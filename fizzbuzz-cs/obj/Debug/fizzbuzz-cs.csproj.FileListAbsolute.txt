@@ -1,0 +1,9 @@
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/bin/Debug/fizzbuzz-cs.dll
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/bin/Debug/fizzbuzz-cs.pdb
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/bin/Debug/nunit.framework.dll
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/bin/Debug/nunit.framework.xml
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/obj/Debug/fizzbuzz-cs.csprojAssemblyReference.cache
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/obj/Debug/fizzbuzz-cs.csproj.CoreCompileInputs.cache
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/obj/Debug/fizzbuzz-cs.csproj.CopyComplete
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/obj/Debug/fizzbuzz-cs.dll
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/obj/Debug/fizzbuzz-cs.pdb
