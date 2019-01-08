@@ -7,3 +7,4 @@
 /Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/obj/Debug/fizzbuzz-cs.csproj.CopyComplete
 /Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/obj/Debug/fizzbuzz-cs.dll
 /Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/obj/Debug/fizzbuzz-cs.pdb
+/Users/karenroberts/projects/fizzbuzz-cs/fizzbuzz-cs/bin/Debug/nunit.framework.pdb
